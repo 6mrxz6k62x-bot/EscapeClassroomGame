@@ -1,0 +1,36 @@
+{
+  "group_id": "8e8b184f-958e-46aa-a6c6-d05895e54ba4",
+  "states": [
+    {
+      "character": {
+        "id": "c41ddc6a-b855-455b-8ef4-5bbef4a79e38",
+        "name": "death",
+        "prompt": "make a girl student character with curly long brown hair, glasses, pretty face and school uniform stained with blood, pale grayish skin and dull faded colors, and is in pixel-anime art style",
+        "size": {
+          "width": 48,
+          "height": 48
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-11-23T09:25:20.572275+00:00"
+      },
+      "folder": "death",
+      "frames": {
+        "rotations": {
+          "south": "death/rotations/south.png",
+          "south-east": "death/rotations/south-east.png",
+          "east": "death/rotations/east.png",
+          "north-east": "death/rotations/north-east.png",
+          "north": "death/rotations/north.png",
+          "north-west": "death/rotations/north-west.png",
+          "west": "death/rotations/west.png",
+          "south-west": "death/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-11-23T09:34:55.221422"
+}
